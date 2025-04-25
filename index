@@ -1,163 +1,35 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Raise Capital & ROI Mastery – Michael Mnat</title>
-  <style>
-    body { font-family: Arial, sans-serif; margin: 0; padding: 0; line-height: 1.6; background: #ffffff; color: #2b2b2b; }
-    .container { max-width: 960px; margin: auto; padding: 40px 20px; }
-    h1, h2, h3 { color: #1a1a1a; }
-    .hero { text-align: center; padding: 60px 20px; background: #f4f4f4; }
-    .pricing-grid { display: flex; justify-content: space-between; gap: 20px; flex-wrap: wrap; }
-    .pricing-box { flex: 1; border: 1px solid #ccc; padding: 20px; border-radius: 10px; min-width: 280px; background: #fff; box-shadow: 0 2px 5px rgba(0,0,0,0.05); }
-    .pricing-box h3 { margin-top: 0; font-size: 1.3em; }
-    .cta { display: block; text-align: center; margin-top: 20px; background: #007bff; color: white; padding: 10px; text-decoration: none; border-radius: 5px; font-weight: bold; }
-    .cta:hover { background: #0056b3; }
-    .section { margin: 40px 0; }
-    ul { padding-left: 20px; }
-    iframe, img { width: 100%; border-radius: 10px; margin-bottom: 20px; }
-    blockquote { font-style: italic; color: #555; border-left: 4px solid #ccc; padding-left: 16px; margin: 20px 0; }
-  </style>
-</head>
-<body>
-  <div class="hero">
-    <h1>Raise Capital in 30 Days or Less.<br>Maximize ROI Without Guessing.</h1>
-    <h2>A proven, deal-ready framework for experienced real estate investors who are tired of delays, dilution, and disappointing returns.</h2>
-    <a href="https://youtu.be/g8IyEqVZsfc" target="_blank">
-      <img src="michael-mnat-video-preview.png" alt="Michael Mnat Video Preview">
-    </a>
-    <p>Real estate veteran Michael Mnat—who raised $22M+ in under 5 years—reveals the exact system his private money partners trust for faster raises and smarter deployment.</p>
-  </div>
+# Raise Capital & ROI Mastery – Michael Mnat
 
-  <div class="section">
-    <h2>The Core Pain</h2>
-    <p>Let’s be honest…</p>
-    <ul>
-      <li>🔻 You’ve done the deals.</li>
-      <li>🔻 You’ve pitched the investors.</li>
-      <li>🔻 But money isn’t flowing fast enough—and when it does, returns fall short.</li>
-    </ul>
-    <p>It’s not because you’re new. It’s because your capital strategy hasn’t caught up with your experience.</p>
-  </div>
+🚀 A results-driven landing page built for experienced real estate investors ready to scale faster, raise smarter, and unlock real ROI.
 
-  <div class="section">
-    <h2>The Promise</h2>
-    <p>In this program, you’ll master:</p>
-    <ul>
-      <li>🚀 Raising more capital, faster—even if past raises took months</li>
-      <li>📈 Structuring deals that make capital partners come back</li>
-      <li>💡 Deploying funds to create real, compounding ROI—not just equity on paper</li>
-    </ul>
-    <blockquote><em>"One client raised in 30 days what they couldn’t in the past year."</em></blockquote>
-    <p><strong>Most students recover the $9.9K investment in the first month.</strong></p>
-  </div>
+## 🔗 Live Preview
+[View the Landing Page](https://yourusername.github.io/michael-mnat-site/)  
+> Replace the above link with your actual GitHub Pages URL after deployment.
 
-  <div class="section">
-    <h2>Who This Is For</h2>
-    <ul>
-      <li>✅ You’ve done at least a few deals</li>
-      <li>✅ You’re ready to scale—without begging for capital</li>
-      <li>✅ You want to become the investor that capital chases</li>
-    </ul>
-    <h2>Who This Is NOT For</h2>
-    <ul>
-      <li>❌ Brand new investors without deal experience</li>
-      <li>❌ Anyone looking for shortcuts without substance</li>
-      <li>❌ Operators unwilling to build real investor trust</li>
-    </ul>
-  </div>
+## 📂 Included Files
+- `index.html` – Fully responsive landing page
+- `michael-mnat-video-preview.png` – Thumbnail that links to Michael's YouTube intro
 
-  <div class="section">
-    <h2>What You Get</h2>
-    <h3>🎯 Capital Raising Mastery</h3>
-    <ul>
-      <li>How to attract private money partners or lenders—and know which is right</li>
-      <li>What capital partners actually want to see in your pitch</li>
-      <li>Ownership split structures that evolve as your experience grows</li>
-    </ul>
-    <h3>📍 Step-by-Step Playbooks from Skool Training Modules</h3>
-    <ul>
-      <li>Where to meet capital partners (online + in person)</li>
-      <li>Deal analysis with real ROI clarity (PML vs PMP)</li>
-      <li>Negotiation techniques, credibility tools, and social proof building</li>
-      <li>Templates: CRM emails, pitch decks, call scripts, social posts, and more</li>
-      <li>Fractional capital raising and event-based strategies</li>
-    </ul>
-    <h3>📞 Outreach & Conversion</h3>
-    <ul>
-      <li>Social media strategy that attracts serious money</li>
-      <li>1-on-1 call frameworks and “avatars” of capital partners</li>
-      <li>Email and DM scripts that generate YES instead of “let me think about it”</li>
-    </ul>
-    <h3>🧠 Deployment ROI Training</h3>
-    <ul>
-      <li>How to manage, report, and optimize performance</li>
-      <li>When to refinance, exit, or pivot</li>
-      <li>Long-term investor retention strategies</li>
-    </ul>
-  </div>
+## 🎯 What This Page Offers
 
-  <div class="section">
-    <h2>What Makes This Different</h2>
-    <p>You don’t just get a theory. You get <strong>systems</strong>.</p>
-    <p>You get pitch decks, social strategy, underwriting reviews, ownership planning, exit strategy scenarios—and weekly guidance from someone who’s closed over $22 million.</p>
-    <ul>
-      <li>How to turn every deal into a capital attractor</li>
-      <li>How to position yourself for 70/30 ownership splits (and higher)</li>
-      <li>How to raise capital without relying on friends or family ever again</li>
-    </ul>
-  </div>
+- Clear breakdown of investor pains and promises
+- Full program overview (curriculum, outcomes, audience fit)
+- Tiered pricing display (Self-Paced, Cohort, and 1:1 Accelerator)
+- Embeds a preview image linking to Michael’s intro video
 
-  <div class="section">
-    <h2>Choose Your Path</h2>
-    <div class="pricing-grid">
-      <div class="pricing-box">
-        <h3>Self-Paced – $1,997</h3>
-        <ul>
-          <li>Full curriculum & updates</li>
-          <li>Templates + CRM scripts</li>
-          <li>Pitch deck builder + walkthroughs</li>
-          <li>Lifetime access</li>
-        </ul>
-        <a href="#" class="cta">Enroll Now</a>
-      </div>
-      <div class="pricing-box">
-        <h3>Cohort Program – $4,997</h3>
-        <ul>
-          <li>Everything in Self-Paced</li>
-          <li>6 weeks of live coaching</li>
-          <li>Private pitch feedback from Mike</li>
-          <li>Peer network + capital collaboration</li>
-        </ul>
-        <a href="#" class="cta">Apply for Next Cohort</a>
-      </div>
-      <div class="pricing-box">
-        <h3>1:1 Accelerator – $9,900</h3>
-        <ul>
-          <li>Everything in Cohort</li>
-          <li>6 private calls with Mike</li>
-          <li>Capital raise planning & CRM setup</li>
-          <li>Investor call roleplays + audit</li>
-          <li>Full deal structuring support</li>
-        </ul>
-        <a href="#" class="cta">Apply for Mentorship</a>
-      </div>
-    </div>
-  </div>
+## 🛠 How to Use
 
-  <div class="section">
-    <h2>About Michael</h2>
-    <p>Michael Mnat raised $22M+ using none of his own capital. As an Army veteran and real estate educator, he helps experienced investors raise capital faster, secure more favorable splits, and maximize ROI with smarter deal flow and better capital deployment systems.</p>
-  </div>
+1. Clone or download this repo.
+2. Replace the placeholder image with your renamed thumbnail: `michael-mnat-video-preview.png`
+3. Push to GitHub and enable GitHub Pages.
+4. Share the link!
 
-  <div class="section">
-    <h2>Still Wondering If It’s Worth It?</h2>
-    <p>Most clients recover their full investment in 30 days. This isn’t just a course. It’s a performance system designed to help you raise capital faster—and never rely on luck again.</p>
-    <a href="#" class="cta">Start Today</a>
-  </div>
-  <div class="container">
-    <!-- ... -->
-  </div>
-</body>
-</html>
+## 🧠 About the Program
+
+Michael Mnat raised over $22M in 4 years using none of his own money. This page promotes his structured capital-raising framework designed to help experienced investors:
+- Raise capital faster
+- Secure better investor splits
+- Maximize ROI through smarter deal flow
+
+## 📺 Video Link
+[https://youtu.be/g8IyEqVZsfc](https://youtu.be/g8IyEqVZsfc)
